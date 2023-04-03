@@ -1,3 +1,4 @@
 data/tweetdata20220830.csv
 data/tweetdata20220823.csv
 data/sentimento_gpt.csv
+.env
